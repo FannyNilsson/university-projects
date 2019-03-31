@@ -3,7 +3,7 @@ During the second year at university we had a course called "Game Project" where
 The goal was to create a first-person puzzle game. Other than that we got to do whatever we wanted. Our game is called "Timeline" and it was a game where the player jumped between time to solve puzzles in different "dungeons". We also got to work with a few sound engineer students who created all our sound effects and music according to our game design documents. Trailer for the game can be found here: https://vimeo.com/218087163
 
 # About
-The game was developed in Autodesk's game engine Stingray and all programming was done with the language lua. Not the whole project is commited here since it would take up to much space, but a few scripts, the set up to install the game and a video filmed during development.
+The game was developed in Autodesk's game engine Stingray and all programming was done with the language lua. Not the whole project is commited here since it would take up to much space, but a few scripts and a video filmed during development. The setup for the game can be found via this link: https://drive.google.com/drive/folders/1Y3OO4EMHCo2PeTSDfwL_iLsuyE-LK-wE?usp=sharing
 
 # My contribution
 The whole group sat down and came up with concept, features and general ideas about the game. When everyone was one the same page about what kind of game we wanted to do we started to divide responsibilities. We worked in an agile environment using Scrum and I was Scrum master. My other responsibilities beyond the work we did together, I worked mostly with:
