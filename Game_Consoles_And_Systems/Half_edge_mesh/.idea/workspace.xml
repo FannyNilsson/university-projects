@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Half_edge_mesh" targetName="glfw" />
+      <config projectName="Half_edge_mesh" targetName="half-edge" />
+      <config projectName="Half_edge_mesh" targetName="render" />
+      <config projectName="Half_edge_mesh" targetName="glew" />
+      <config projectName="Half_edge_mesh" targetName="core" />
+      <config projectName="Half_edge_mesh" targetName="MathLib" />
+      <config projectName="Half_edge_mesh" targetName="example" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="141863f2-8ad3-4d33-8a1c-58f4027f4d88" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Half_Edge_Mesh.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/half-edge/code/Half_Edge_Mesh.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4554">
+              <caret line="253" column="0" lean-forward="false" selection-start-line="253" selection-start-column="0" selection-end-line="253" selection-end-column="0" />
+              <folding>
+                <element signature="e#45#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MeshResources.cc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/half-edge/code/MeshResources.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2988">
+              <caret line="166" column="0" lean-forward="false" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TextureResource.cc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/half-edge/code/TextureResource.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MeshResources.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/half-edge/code/MeshResources.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <element signature="e#13#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exampleapp.cc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects/half-edge/code/exampleapp.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="126" column="29" lean-forward="false" selection-start-line="126" selection-start-column="29" selection-end-line="126" selection-end-column="29" />
+              <folding>
+                <element signature="e#238#257#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rasterizer.cc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/half-edge/code/Rasterizer.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exampleapp.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/half-edge/code/exampleapp.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="40" column="4" lean-forward="false" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GraphicsNode.cc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/half-edge/code/GraphicsNode.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1386">
+              <caret line="77" column="1" lean-forward="false" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GraphicsNode.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/half-edge/code/GraphicsNode.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+              <folding>
+                <element signature="e#14#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Half_Edge_Mesh.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/half-edge/code/Half_Edge_Mesh.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1332">
+              <caret line="74" column="4" lean-forward="false" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="23" />
+              <folding>
+                <element signature="e#125#146#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>loadOBJfile_Rast</find>
+      <find>load_file</find>
+      <find>vertBuff</find>
+      <find>INDBUFF</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>vertices</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/projects/exampleCopy/code/MeshResources.cc" />
+        <option value="$PROJECT_DIR$/projects/exampleCopy/code/Rasterizer.cc" />
+        <option value="$PROJECT_DIR$/projects/exampleCopy/code/Rasterizer.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/projects/half-edge/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/projects/MathLib/code/Matrix3D.h" />
+        <option value="$PROJECT_DIR$/projects/half-edge/code/TextureResource.cc" />
+        <option value="$PROJECT_DIR$/projects/half-edge/code/exampleapp.h" />
+        <option value="$PROJECT_DIR$/projects/half-edge/code/GraphicsNode.h" />
+        <option value="$PROJECT_DIR$/projects/half-edge/code/GraphicsNode.cc" />
+        <option value="$PROJECT_DIR$/projects/half-edge/code/exampleapp.cc" />
+        <option value="$PROJECT_DIR$/projects/half-edge/code/Half_Edge_Mesh.h" />
+        <option value="$PROJECT_DIR$/projects/half-edge/code/Half_Edge_Mesh.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1204" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Half_edge_mesh" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Half_edge_mesh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Half_edge_mesh" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Half_edge_mesh" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Half_edge_mesh" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Half_edge_mesh" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="half-edge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Half_edge_mesh" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Half_edge_mesh" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="half-edge" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Half_edge_mesh" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Half_edge_mesh" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="MathLib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Half_edge_mesh" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Half_edge_mesh" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="MathLib" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../S0009D/Lab1/lab-env-master" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Custom" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.half-edge">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="MathLib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Half_edge_mesh" TARGET_NAME="MathLib" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Half_edge_mesh" RUN_TARGET_NAME="MathLib">
+      <envs />
+    </configuration>
+    <configuration name="core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Half_edge_mesh" TARGET_NAME="core" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="example" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Half_edge_mesh" TARGET_NAME="example" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Half_edge_mesh" RUN_TARGET_NAME="example">
+      <envs />
+    </configuration>
+    <configuration name="exampleCopy" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$/projects/exampleCopy" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Half_edge_mesh" TARGET_NAME="half-edge" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Half_edge_mesh" RUN_TARGET_NAME="half-edge">
+      <envs />
+    </configuration>
+    <configuration name="glew" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Half_edge_mesh" TARGET_NAME="glew" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="glfw" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Half_edge_mesh" TARGET_NAME="glfw" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="half-edge" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$/projects/half-edge" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Half_edge_mesh" TARGET_NAME="half-edge" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Half_edge_mesh" RUN_TARGET_NAME="half-edge">
+      <envs />
+    </configuration>
+    <configuration name="render" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Half_edge_mesh" TARGET_NAME="render" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <list size="9">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.exampleCopy" />
+      <item index="2" class="java.lang.String" itemvalue="Application.core" />
+      <item index="3" class="java.lang.String" itemvalue="Application.render" />
+      <item index="4" class="java.lang.String" itemvalue="Application.glew" />
+      <item index="5" class="java.lang.String" itemvalue="Application.glfw" />
+      <item index="6" class="java.lang.String" itemvalue="Application.example" />
+      <item index="7" class="java.lang.String" itemvalue="Application.half-edge" />
+      <item index="8" class="java.lang.String" itemvalue="Application.MathLib" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="9" BundledDictionary0="django.dic" BundledDictionary1="css.dic" BundledDictionary2="python.dic" BundledDictionary3="pythonExtras.dic" BundledDictionary4="less.dic" BundledDictionary5="jetbrains.dic" BundledDictionary6="doxygen.dic" BundledDictionary7="english.dic" BundledDictionary8="objc.dic" Folders="0" Dictionaries="0" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="141863f2-8ad3-4d33-8a1c-58f4027f4d88" name="Default" comment="" />
+      <created>1504162100338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504162100338</updated>
+      <workItem from="1504162101682" duration="2689000" />
+      <workItem from="1504165070425" duration="2079000" />
+      <workItem from="1504167692554" duration="956000" />
+      <workItem from="1504870746745" duration="949000" />
+      <workItem from="1505212908172" duration="143000" />
+      <workItem from="1505213134402" duration="6115000" />
+      <workItem from="1505293857390" duration="49372000" />
+      <workItem from="1505983067980" duration="1254000" />
+      <workItem from="1507111236585" duration="2692000" />
+      <workItem from="1509964584242" duration="7376000" />
+      <workItem from="1516010887183" duration="1212000" />
+      <workItem from="1516791837796" duration="731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75568000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1204" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14285715" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26818183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="48" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/exampleapp.h" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/TextureResource.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/LightNode.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/MeshResources.h" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/Rasterizer.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/MeshResources.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/main.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/MeshResources.h" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/GraphicsNode.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/output.ppm" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/exampleapp.h" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/TextureResource.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/LightNode.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/exampleapp.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/stb_image.h" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/main.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/LightNode.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/GraphicsNode.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/exampleapp.h" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/output.ppm" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/Rasterizer.h" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/Rasterizer.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/TextureResource.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/ShaderObject.h" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/ShaderObject .cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/MeshResources.h" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/MeshResources.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/exampleapp.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/half-edge/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/MathLib/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engine/render/window.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/half-edge/code/main.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/vector.tcc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="440" column="0" lean-forward="false" selection-start-line="440" selection-start-column="0" selection-end-line="440" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/half-edge/code/stb_image.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/half-edge/code/ShaderObject .cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="914" column="0" lean-forward="false" selection-start-line="914" selection-start-column="0" selection-end-line="914" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/MathLib/code/Matrix3D.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3312">
+          <caret line="184" column="0" lean-forward="false" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_tree.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11718">
+          <caret line="651" column="0" lean-forward="false" selection-start-line="651" selection-start-column="0" selection-end-line="651" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/shared_ptr_base.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18990">
+          <caret line="1055" column="0" lean-forward="false" selection-start-line="1055" selection-start-column="0" selection-end-line="1055" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/half-edge/code/GraphicsNode.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="40" column="9" lean-forward="false" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding>
+            <element signature="e#14#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/half-edge/code/Half_Edge_Mesh.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1332">
+          <caret line="74" column="4" lean-forward="false" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="23" />
+          <folding>
+            <element signature="e#125#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/half-edge/code/GraphicsNode.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="77" column="1" lean-forward="false" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/half-edge/code/MeshResources.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="e#13#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/half-edge/code/MeshResources.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2988">
+          <caret line="166" column="0" lean-forward="false" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/half-edge/code/TextureResource.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/half-edge/code/Half_Edge_Mesh.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4554">
+          <caret line="253" column="0" lean-forward="false" selection-start-line="253" selection-start-column="0" selection-end-line="253" selection-end-column="0" />
+          <folding>
+            <element signature="e#45#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/half-edge/code/exampleapp.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="40" column="4" lean-forward="false" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/half-edge/code/Rasterizer.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/half-edge/code/exampleapp.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="126" column="29" lean-forward="false" selection-start-line="126" selection-start-column="29" selection-end-line="126" selection-end-column="29" />
+          <folding>
+            <element signature="e#238#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="gscept_lab_env" targetName="MathLib" />
+      <config projectName="gscept_lab_env" targetName="core" />
+      <config projectName="gscept_lab_env" targetName="render" />
+      <config projectName="gscept_lab_env" targetName="GrafikAlgoritmer" />
+      <config projectName="gscept_lab_env" targetName="glfw" />
+      <config projectName="gscept_lab_env" targetName="glew" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="141863f2-8ad3-4d33-8a1c-58f4027f4d88" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="exampleapp.cc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/exampleapp.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="266" column="6" selection-start-line="266" selection-start-column="6" selection-end-line="266" selection-end-column="6" />
+              <folding>
+                <element signature="e#238#257#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exampleapp.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/exampleapp.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+              <folding>
+                <element signature="e#290#311#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="glew.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exts/glew/include/GL/glew.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="109" selection-start-line="109" selection-end-line="109" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Skeleton.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Skeleton.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1351">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShaderObject.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/ShaderObject.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Makefile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/cmake-build-debug/example/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1450">
+              <caret line="134" selection-start-line="134" selection-end-line="134" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShaderObject.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/ShaderObject.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+              <folding>
+                <element signature="e#60#81#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Skinning.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Skinning.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="226" selection-start-line="226" selection-end-line="226" />
+              <folding>
+                <element signature="e#45#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Skeleton.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Skeleton.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+              <folding>
+                <element signature="e#125#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Skinning.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Skinning.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="85" column="40" selection-start-line="85" selection-start-column="40" selection-end-line="85" selection-end-column="40" />
+              <folding>
+                <element signature="e#114#143#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>loadOBJfile_Rast</find>
+      <find>load_file</find>
+      <find>op</find>
+      <find>operator</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/projects/exampleCopy/code/MeshResources.cc" />
+        <option value="$PROJECT_DIR$/projects/exampleCopy/code/Rasterizer.cc" />
+        <option value="$PROJECT_DIR$/projects/exampleCopy/code/Rasterizer.h" />
+        <option value="$PROJECT_DIR$/projects/GrafikAlgoritmer/code/main.cc" />
+        <option value="$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Animation.h" />
+        <option value="$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Animation.cpp" />
+        <option value="$PROJECT_DIR$/projects/MathLib/code/Matrix3D.h" />
+        <option value="$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Vertexcomponent.h" />
+        <option value="$PROJECT_DIR$/projects/GrafikAlgoritmer/code/VertexComponents.cpp" />
+        <option value="$PROJECT_DIR$/projects/GrafikAlgoritmer/code/VertexComponents.h" />
+        <option value="$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Skinning.h" />
+        <option value="$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Skinning.cpp" />
+        <option value="$PROJECT_DIR$/projects/GrafikAlgoritmer/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Skeleton.cpp" />
+        <option value="$PROJECT_DIR$/projects/GrafikAlgoritmer/code/ShaderObject.h" />
+        <option value="$PROJECT_DIR$/projects/GrafikAlgoritmer/code/ShaderObject.cpp" />
+        <option value="$PROJECT_DIR$/projects/GrafikAlgoritmer/code/exampleapp.h" />
+        <option value="$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Skeleton.h" />
+        <option value="$PROJECT_DIR$/projects/GrafikAlgoritmer/code/exampleapp.cc" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="72" />
+    <option name="width" value="1855" />
+    <option name="height" value="1148" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gscept_lab_env" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab-env-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gscept_lab_env" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab-env-master" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gscept_lab_env" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab-env-master" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="GrafikAlgoritmer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gscept_lab_env" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab-env-master" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="GrafikAlgoritmer" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gscept_lab_env" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab-env-master" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="MathLib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gscept_lab_env" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab-env-master" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="MathLib" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GrafikAlgoritmer_Lab">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="GrafikAlgoritmer_Lab" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$/projects" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gscept_lab_env" TARGET_NAME="GrafikAlgoritmer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gscept_lab_env" RUN_TARGET_NAME="GrafikAlgoritmer" />
+    <configuration name="MathLib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gscept_lab_env" TARGET_NAME="MathLib" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gscept_lab_env" RUN_TARGET_NAME="MathLib" />
+    <configuration name="core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gscept_lab_env" TARGET_NAME="core" CONFIG_NAME="Debug" />
+    <configuration name="glew" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gscept_lab_env" TARGET_NAME="glew" CONFIG_NAME="Debug" />
+    <configuration name="glfw" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gscept_lab_env" TARGET_NAME="glfw" CONFIG_NAME="Debug" />
+    <configuration name="render" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gscept_lab_env" TARGET_NAME="render" CONFIG_NAME="Debug" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.GrafikAlgoritmer_Lab" />
+      <item itemvalue="Application.core" />
+      <item itemvalue="Application.render" />
+      <item itemvalue="Application.glew" />
+      <item itemvalue="Application.glfw" />
+      <item itemvalue="Application.MathLib" />
+    </list>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="141863f2-8ad3-4d33-8a1c-58f4027f4d88" name="Default" comment="" />
+      <created>1504162100338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504162100338</updated>
+      <workItem from="1504162101682" duration="2689000" />
+      <workItem from="1504165070425" duration="2079000" />
+      <workItem from="1504167692554" duration="1550000" />
+      <workItem from="1504689294665" duration="9134000" />
+      <workItem from="1504706541902" duration="33322000" />
+      <workItem from="1504869726105" duration="10202000" />
+      <workItem from="1505731267747" duration="30271000" />
+      <workItem from="1505983068505" duration="38982000" />
+      <workItem from="1507111226000" duration="1250000" />
+      <workItem from="1516616042594" duration="1225000" />
+      <workItem from="1516791838637" duration="724000" />
+      <workItem from="1516797462975" duration="91000" />
+      <workItem from="1521629869513" duration="11841000" />
+      <workItem from="1522841348752" duration="870000" />
+      <workItem from="1522842248815" duration="334000" />
+      <workItem from="1522842677964" duration="4909000" />
+      <workItem from="1522926954191" duration="4199000" />
+      <workItem from="1523002354860" duration="12850000" />
+      <workItem from="1523279484122" duration="6235000" />
+      <workItem from="1523351802833" duration="1128000" />
+      <workItem from="1523352941664" duration="5539000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="179424000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1204" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18221024" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.2568306" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32969034" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969034" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26867032" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39981785" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="62" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/exampleapp.h" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/TextureResource.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/LightNode.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/exampleapp.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/stb_image.h" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/main.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/LightNode.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/GraphicsNode.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/exampleapp.h" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/output.ppm" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/Rasterizer.h" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/Rasterizer.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/TextureResource.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/ShaderObject.h" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/ShaderObject .cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/MeshResources.h" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/exampleapp.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/exampleCopy/code/MeshResources.cc" />
+    <entry file="file:///usr/include/tinyxml.h" />
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14022">
+          <caret line="779" selection-start-line="779" selection-end-line="779" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../SVN/fannil-5/S0006E/Lab1/Project1/Project1.sln" />
+    <entry file="file://$PROJECT_DIR$/exts/glfw-3.1.1/src/x11_window.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14010">
+          <caret line="934" selection-start-line="934" selection-end-line="934" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/bin/cmake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Animation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/stdint.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/main.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <element signature="e#232#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Vertexcomponent.h" />
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Animation.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="e#116#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/VertexComponents.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/ShaderObject .cc" />
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/GraphicsNode.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/GraphicsNode.h" />
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/LightNode.cc" />
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/ShaderObject .cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/LightNode.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/LightNode.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/TextureResource.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/TextureResource.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="210" selection-start-line="8" selection-start-column="210" selection-end-line="8" selection-end-column="210" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/MathLib/code/Matrix3D.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-end-line="3" />
+          <folding>
+            <element signature="e#59#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engine/render/window.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#287#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exts/glew/include/GL/glew.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/cmake-build-debug/example/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1450">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Skeleton.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1351">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/ShaderObject.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Skinning.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="85" column="40" selection-start-line="85" selection-start-column="40" selection-end-line="85" selection-end-column="40" />
+          <folding>
+            <element signature="e#114#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/ShaderObject.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#60#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Skeleton.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding>
+            <element signature="e#125#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/exampleapp.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="e#290#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/Skinning.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="226" selection-start-line="226" selection-end-line="226" />
+          <folding>
+            <element signature="e#45#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/GrafikAlgoritmer/code/exampleapp.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="266" column="6" selection-start-line="266" selection-start-column="6" selection-end-line="266" selection-end-column="6" />
+          <folding>
+            <element signature="e#238#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
